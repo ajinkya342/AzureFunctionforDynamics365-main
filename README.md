@@ -1,1 +1,1 @@
-# AzureFunctionforDynamics365-main
+# AzureFunctionforDynamics365
