@@ -43,7 +43,7 @@ $('.btn-send').click(function() {
       };
 
       //Declaring the Azure Function URL in costant
-      const AzureFunctionURL = "https://crmunidirectionalfunction.azurewebsites.net/api/SendResponse?";
+      const AzureFunctionURL = "https://crmunidirectionalfunction.azurewebsites.net/api/SendResponse";
 
       //Creating Ajax Request to post data to Dynamics 365
       $.ajax({
